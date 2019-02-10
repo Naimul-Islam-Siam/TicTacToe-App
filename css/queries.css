@@ -44,15 +44,15 @@
 	.btn:link,
 	.btn:visited {
 		font-size: 15px;
-		width: 150px;
-		padding: 12px 14px;
+		width: 130px;
+		padding: 9px 14px;
 		border-radius: 22px;
-		box-shadow: 0 7px 14px rgba(0, 0, 0, 0.2);
+		box-shadow: 0 7px 10px rgba(0, 0, 0, 0.2);
 	}
 
 	.resetBtn:link,
 	.resetBtn:visited {
-		width: 160px;
+		width: 130px;
 		margin-bottom: 15px;
 	}
 
