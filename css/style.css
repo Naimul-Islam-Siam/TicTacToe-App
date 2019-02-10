@@ -63,10 +63,6 @@ h2 {
 	margin-bottom: 10px;
 }
 
-.newgameBtn:hover {
-	transform: translateY(-3px);
-}
-
 .container {
 	width: 100%;
 	height: 320px;
