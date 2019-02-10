@@ -158,10 +158,19 @@ function clearBox(number){
 	document.querySelector("#s" + number).textContent = "";
 }
 
-resetBtn.addEventListener("click", function(){
+function reset(){
 	for(var i = 1; i <= square.length; i++){
 		clearBox(i);
 	}
 	message.textContent = "Start Again [X by default]";
 	init(); 
+}
+
+resetBtn.addEventListener("click", function(){
+	reset();
+});
+
+var newRound = document.querySelector(".newgameBtn");
+newRound.addEventListener("click", function(){
+	document.location.reload(true);
 });

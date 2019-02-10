@@ -49,10 +49,21 @@ h2 {
 	display: block;
 	color: #14BDAC;
 	margin: 15px auto;
-	margin-bottom: 20px;
+	margin-bottom: 10px;
 }
 
 .resetBtn:hover {
+	transform: translateY(-3px);
+}
+
+.newgameBtn {
+	display: block;
+	margin: 0 auto;
+	color: #14BDAC;
+	margin-bottom: 10px;
+}
+
+.newgameBtn:hover {
 	transform: translateY(-3px);
 }
 
