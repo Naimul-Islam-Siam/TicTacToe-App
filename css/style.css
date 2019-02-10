@@ -4,15 +4,8 @@
 	box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'Lato';
-    font-style: normal;
-    font-weight: 400;
-    src: local('Lato Regular'), local('Lato-Regular'), url(fonts/Lato-Regular.ttf) format('truetype');
-}
-
 body {
-	font-family: 'Lato';
+	font-family: 'Montserrat';
 	position: relative;
 	height: 100vh;
 	background: #B2FEFA;  /* fallback for old browsers */
