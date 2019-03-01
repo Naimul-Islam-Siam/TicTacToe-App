@@ -10,9 +10,9 @@ Screenshot From App :
 
 ![](Screenshot.png)
 
-Download The Android Mobile App : https://drive.google.com/open?id=12iM9MUveaH1GCb5sm533bBR9E9xblJGR
+Download The Android Mobile App : http://bit.ly/2XuUkAW
 
-Download The Windows Mobile App : https://drive.google.com/open?id=1AbYouMBpZUS4G6ksrSqsdBPmVAfS3n-l
+Download The Windows Mobile App : http://bit.ly/2SCb1H4
 
 Also you can see the web version of the game here :
 
